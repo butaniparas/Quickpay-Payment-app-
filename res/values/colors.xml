@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#4A5EC3</color>
+    <color name="aliceblue">#f1f1ff</color>
+    <color name="lightgreen">#5BB07B</color>
+    <color name="lightyellow">#EEE674</color>
+    <color name="lightblue">#5CB3D4</color>
+    <color name="red">#D95F51</color>
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="Signup_Background">#ECEEF1</color>
+    <color name="Signup_Button_color">#0087D2</color>
+
+</resources>
